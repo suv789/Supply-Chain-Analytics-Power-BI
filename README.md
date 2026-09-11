@@ -1,4 +1,4 @@
-Supply Chain Analytics Dashboard | Power BI
+**Supply Chain Analytics Dashboard | Power BI**
 
 Project Overview
 
@@ -69,6 +69,7 @@ Month, quarter, supplier, and date filtering
 Business Insight
 
 Procurement spend remains close to target, while 63.7% on-time delivery shows delivery performance as major improvement area. Delay analysis helps trace delayed shipments from transport mode through carrier, region, and product category.
+![Overview](Screenshots/overview.png)
 
 Page 2 — Supplier & Procurement Performance
 
@@ -110,6 +111,8 @@ Business Insight
 
 Page helps procurement teams identify suppliers with high price variance, long lead times, or weak delivery performance. Supplier scatter analysis makes strong and weak performers easier to spot for sourcing and negotiation decisions.
 
+![Supplier Performance](Screenshots/Supplier_Performance.png)
+
 Page 3 — Logistics & Delivery Performance
 
 
@@ -145,6 +148,8 @@ On-Time Delivery % by region
 Business Insight
 
 Air accounts for largest freight-cost share, while overall on-time delivery remains below desired SLA performance. Carrier comparison highlights where delivery reliability needs improvement, while transit-time and regional analysis help isolate logistics bottlenecks.
+
+![Logistic Performance](Screenshots/Logistic_Performance.png)
 
 Dashboard Features
 
