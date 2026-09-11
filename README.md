@@ -8,7 +8,7 @@ Dashboard gives decision-makers single view of supply chain health and helps ide
 
 Dashboard Home
 
-![Dashboard Home](screenshots/Home.png)
+![Dashboard Home](Screenshots/Home.png)
 
 Home page acts as navigation hub and summarizes major findings across procurement, supplier, and logistics analysis.
 
