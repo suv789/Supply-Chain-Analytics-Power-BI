@@ -1,4 +1,4 @@
-**Supply Chain Analytics Dashboard | Power BI**
+## **Supply Chain Analytics Dashboard | Power BI**
 
 Project Overview
 
@@ -69,6 +69,7 @@ Month, quarter, supplier, and date filtering
 Business Insight
 
 Procurement spend remains close to target, while 63.7% on-time delivery shows delivery performance as major improvement area. Delay analysis helps trace delayed shipments from transport mode through carrier, region, and product category.
+
 ![Overview](Screenshots/overview.png)
 
 Page 2 — Supplier & Procurement Performance
