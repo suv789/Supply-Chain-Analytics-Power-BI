@@ -214,7 +214,7 @@ Home → Overview → Supplier & Procurement Performance → Logistics & Deliver
 
 Dashboard uses dedicated navigation buttons to move between analytical pages while keeping design and filtering experience consistent.
 
-[Download Supply Chain Analytics Dashboard (.pbix)](https://drive.google.com/file/d/19p-HSKtTPQapYUoWIWFafdo4XRYDJVaT/view?usp=drive_link)
+[Download Supply Chain Analytics Dashboard (.pbix)](https://drive.google.com/file/d/19p-HSKtTPQapYUoWIWFafdo4XRYDJVaT/view?usp=sharing)
 
 Conclusion
 
