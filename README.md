@@ -206,28 +206,21 @@ Data Modeling — relationships and analytical model design
 
 Power BI Visualizations — KPI cards, scatter charts, bar charts, line charts, donut charts, decomposition analysis, tables, and slicers
 
-Project Structure
 
-Supply-Chain-Analytics/
-│
-├── README.md
-├── Home.png
-├── Overview.png
-├── Supplier_Performance.png
-├── Logistics_Performance.png
-└── Supply_Chain_Analytics.pbix
 
-Add your .pbix file to repository using filename Supply_Chain_Analytics.pbix, or update project structure with your actual filename.
-
-Dashboard Navigation
+Dashboard Navigation 
 
 Home → Overview → Supplier & Procurement Performance → Logistics & Delivery Performance
 
 Dashboard uses dedicated navigation buttons to move between analytical pages while keeping design and filtering experience consistent.
 
+[Download Supply Chain Analytics Dashboard (.pbix)](https://drive.google.com/file/d/19p-HSKtTPQapYUoWIWFafdo4XRYDJVaT/view?usp=drive_link)
+
 Conclusion
 
 Supply Chain Analytics Dashboard combines procurement, supplier, and logistics metrics into one decision-support solution. It highlights cost variance, supplier risk, delivery delays, carrier SLA performance, and freight efficiency so teams can quickly identify operational gaps and focus on measurable supply chain improvements.
+
+
 
 Author
 
